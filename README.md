@@ -197,7 +197,7 @@ docker compose --profile core --profile selenium --profile cicd --profile monito
 
 ### Unified Allure Reports
 
-All six test suites contribute to a single Allure report with:
+All test suites contribute to a single Allure report with:
 - Test execution history and trends across all frameworks
 - Categorization by suite, feature, and story
 - Attachments (logs, request/response data)
