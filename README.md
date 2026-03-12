@@ -10,8 +10,10 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 📊 **[View Live Test Report](https://drexm1967.github.io/sqa-architect/)** (Always available after CI/CD deployment)
+   
+   **[More about the AUT](https://github.com/drexm1967/sqa-architect/wiki#about-the-application-under-test-aut)**
 
-## Overview
+ ## Overview
 
 This repository has been created for publishing the live Allure report for my continuously evolving QA automation ecosystem, within the private **automation-lab-ecosystem** repository, demonstrating professional testing practices across the full SDLC. It is part of a portfolio project that showcases expertise in API/UI test automation, CI/CD integration, infrastructure-as-code and use of AI as a collaborative tool.
 
