@@ -107,7 +107,7 @@ Rather than isolated test scripts, this ecosystem demonstrates:
   - PR notifications with test results
 
 ### 🚧 In Development
-- UI automation (Selenium Java POM + Playwright TypeScript)
+- UI automation (Selenium Java POM + Playwright TypeScript) **In Progress**
 - Contract testing (Pact)
 - Locust performance scenarios
 
@@ -298,15 +298,14 @@ MIT License - See [LICENSE](LICENSE) file for details.
 **Target**  : Corporate employment and 1099 contracting opportunities in Software Quality Assurance and Test Automation
 
 ### Connect
-Hiring managers and technical recruiters are welcome to contact me to schedule a technical walkthrough and in-depth discussion of the private
-repository and its contents as part of role evaluations.
+Hiring managers and technical recruiters are welcome to contact me to schedule a technical walkthrough and in-depth discussion of the private repository and its contents as part of role evaluations.
 
 - **Email** : sqalab.admin@protonmail.ch
 
 ---
 
 - **Repository Status:** Active Ongoing Development  
-- **Last Updated:** 13 March 2026
+- **Last Updated:** 14 March 2026
 - **Test Success Rate:** 74.27% (I broke some stuff and it's awesome!!!)
 - **Coverage Goal:**  90% or better
   
