@@ -1,0 +1,25 @@
+<div>PATCH to http://localhost:3000/api/orders/405/status</div>
+
+<h4>Body</h4>
+<div>
+    <pre class="preformated-text">
+{
+    &quot;status&quot;: &quot;processing&quot;
+}    </pre>
+</div>
+
+<h4>Headers</h4>
+<div>
+        <div>Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImVtYWlsIjoiYWRtaW4yQHRlc3RsYWIuY29tIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzc1NTQ0MTE5LCJleHAiOjE3NzU2MzA1MTl9.r-O2kJpV8UGmUR_NOku_aC6i43GcSkQ1-88OkT6kS1s</div>
+        <div>Accept: application/json, application/javascript, text/javascript, text/json</div>
+        <div>Content-Type: application/json</div>
+</div>
+
+
+
+<h4>Curl</h4>
+<div>
+curl -v -X PATCH &#39;http://localhost:3000/api/orders/405/status&#39; -H &#39;Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImVtYWlsIjoiYWRtaW4yQHRlc3RsYWIuY29tIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzc1NTQ0MTE5LCJleHAiOjE3NzU2MzA1MTl9.r-O2kJpV8UGmUR_NOku_aC6i43GcSkQ1-88OkT6kS1s&#39; -H &#39;Accept: application/json, application/javascript, text/javascript, text/json&#39; -H &#39;Content-Type: application/json&#39; -d &#39;{
+    &quot;status&quot;: &quot;processing&quot;
+}&#39;
+</div>
